@@ -1,15 +1,39 @@
 Soundcraft audio mixer tools for Linux
 ======================================
 
-Socratools is a collection of utilities designed to bring extended functionality of [Soundcraft](https://soundcraft.com) audio mixers to the Linux operating system.
+**SO**und**CRA**ft **TOOLS**
 
-Socranop
+Socratools is a collection of utilities designed to bring
+extended functionality of [Soundcraft](https://soundcraft.com)
+audio mixers to the Linux operating system.
+
+socranop
 --------
 
-A user-friendly CLI and GUI for controlling extended functionality of Soundcraft Notepad mixers.
+**SO**und**CRA**ft **NO**te**P**ad
 
-Previously known as [soundcraft-utils](https://soundcraft-utils.github.io), this rename paves the way for more great features and enhancements, with the first release coming soon!
+A user-friendly CLI and GUI for controlling extended
+functionality of Soundcraft Notepad mixers.
+
+Previously known as
+[soundcraft-utils](https://soundcraft-utils.github.io), this
+rename paves the way for more great features and enhancements,
+with the first release coming soon!
 
 GitHub page: [socratools/socranop](https://github.com/socratools/socranop)
 
 Pypi release page: (TBD)
+
+socradoc
+--------
+
+**SO**und**CRA**ft **DOC**umentation
+
+Detailed notes and debug utilities about the USB protocol.
+
+GitHub page: [socratools/socradoc](https://github.com/socratools/socradoc)
+
+Credits
+-------
+
+Icon by [Flat Icons](https://www.flaticon.com/authors/flat-icons) from http://www.flaticon.com/
