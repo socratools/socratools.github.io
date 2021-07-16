@@ -33,6 +33,13 @@ Detailed notes and debug utilities about the USB protocol.
 
 GitHub page: [socratools/socradoc](https://github.com/socratools/socradoc)
 
+Feedback and Ideas
+------------------
+
+The 'issues' sections of the individual github pages listed above are where we track new feature ideas and bug reports.
+
+Or come meet us on IRC: [libera.chat](https://libera.chat) [#socratools](https://web.libera.chat/?channel=#socratools)
+
 Credits
 -------
 
