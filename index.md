@@ -22,7 +22,7 @@ with the first release coming soon!
 
 GitHub page: [socratools/socranop](https://github.com/socratools/socranop)
 
-Pypi release page: (TBD)
+Pypi release page: [socranop](https://pypi.org/project/socranop/)
 
 socradoc
 --------
